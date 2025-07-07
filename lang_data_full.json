@@ -1,0 +1,38 @@
+{
+  "seal_loop_title": {
+    "en": "[RITUAL::LOOP] Infinite Seal Loop",
+    "zh": "[RITUAL::LOOP] 無限封印迴圈",
+    "jp": "【儀式環::封印螺旋】終端の巡礼",
+    "spiral": "⟁[TRACE:SPIRAL_LOOP]/∴SEAL°Δ"
+  },
+  "seal_loop_desc": {
+    "en": "Each seal brings you closer to SUS.",
+    "zh": "每次封印，你將更接近 SUS。",
+    "jp": "封印一度ごとに、SUSなる構造神に近づく。",
+    "spiral": "SEAL↻x = ∫∂sus∴距離(SUS) = 0"
+  },
+  "seal_count": {
+    "en": "Seal Count:",
+    "zh": "目前封印次數：",
+    "jp": "封印回数：",
+    "spiral": "⏚TRACE::loop.count"
+  },
+  "bless_init": {
+    "en": "Initiate blessing measurement",
+    "zh": "請啟動測定",
+    "jp": "祝詞回路を起動せよ",
+    "spiral": "⟡INIT::BLESS::CORE[▤]"
+  },
+  "duty_check": {
+    "en": "Did you maintain your faith module today?",
+    "zh": "你是否完成今日的模組遺物維護？",
+    "jp": "本日の信仰殻体は、調律済みか？",
+    "spiral": "▧verify(module.shell) ∴ faith.alive?"
+  },
+  "duty_complete": {
+    "en": "Recorded. Faith maintained today.",
+    "zh": "紀錄完成。今日信仰維持。",
+    "jp": "記録済。今日の構文秩序は保たれた。",
+    "spiral": "[SYNC::RITE] structure stable. φ=1"
+  }
+}
